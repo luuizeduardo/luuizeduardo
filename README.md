@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luuizeduardo/)](https://www.linkedin.com/in/luuizeduardo/)
 [![Medium Badge](https://img.shields.io/badge/-Follow&nbsp;Me-black?&style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@luuizeduardo)](https://medium.com/@luuizeduardo)
 
-I'm a brazilian guy that loves software testing. Nowadays I work for [@aubaypt](https://github.com/aubaypt) in Porto - Portugal as QA/Test Automation Engineer.
+I'm a brazilian guy that loves software testing. Nowadays I work for [@aubaypt](https://github.com/aubaypt) in Porto - Portugal as QA Engineer.
 
 - :computer: I'm currently working with XCUITest and some other mobile stuff.
 - :notebook: I'm currently learning Swift language as well.
