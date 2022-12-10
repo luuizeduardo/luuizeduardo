@@ -9,4 +9,5 @@ I'm a brazilian guy that loves software testing. Nowadays I work for [@mercedes-
 - :book: I like to read fiction, fantasy, fantastic literature and other genres like these.
 - :video_game: In free time, I like to play video games to pass the time.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=luuizeduardo&hide=["prs","issues"])
+![Github stats](https://github-readme-stats.vercel.app/api?username=luuizeduardo&show_icons=true")
+![Github programming languages](https://github-readme-stats.vercel.app/api/top-langs?username=luuizeduardo&layout=compact&theme=dark")
