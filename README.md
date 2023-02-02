@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luuizeduardo/)](https://www.linkedin.com/in/luuizeduardo/)
 [![Medium Badge](https://img.shields.io/badge/-Follow&nbsp;Me-black?&style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@luuizeduardo)](https://medium.com/@luuizeduardo)
+[![Medium Badge](https://img.shields.io/badge/-Follow&nbsp;Me-white?&style=for-the-badge&logo=dev.to&logoColor=black&link=https://dev.to/luuizeduardo)](https://dev.to/luuizeduardo)
 
 I'm a brazilian guy that loves software testing. Nowadays I work for [@mercedes-benz.io](https://www.mercedes-benz.io/) in Portugal as a Senior QA Engineer.
 
